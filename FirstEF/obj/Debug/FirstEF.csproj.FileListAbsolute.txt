@@ -1,0 +1,13 @@
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\FirstEF.exe.config
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\FirstEF.exe
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\FirstEF.pdb
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\EntityFramework.dll
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\EntityFramework.xml
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\obj\Debug\FirstEF.csprojResolveAssemblyReference.cache
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\obj\Debug\FirstEF.Properties.Resources.resources
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\obj\Debug\FirstEF.csproj.GenerateResource.Cache
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\obj\Debug\FirstEF.exe
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\obj\Debug\FirstEF.pdb
+D:\Latihan\NET\Windows\EntityFramework\FirstEF\FirstEF\obj\Debug\FirstEF.Form1.resources
